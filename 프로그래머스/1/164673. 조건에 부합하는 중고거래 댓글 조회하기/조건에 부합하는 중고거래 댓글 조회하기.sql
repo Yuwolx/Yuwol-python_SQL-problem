@@ -1,0 +1,7 @@
+-- 코드를 입력하세요
+SELECT TITLE, A.BOARD_ID, B.REPLY_ID, B.WRITER_ID, B.CONTENTS, DATE_FORMAT(B.CREATED_DATE,'%Y-%m-%d')
+FROM used_goods_board as A
+INNER JOIN used_goods_reply as B
+ON A.BOARD_ID = B.BOARD_ID
+WHERE A.created_date like '2022-10%'
+ORDER BY B.CREATED_DATE, TITLE
