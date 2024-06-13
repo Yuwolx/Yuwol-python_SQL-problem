@@ -2,4 +2,4 @@
 SELECT ANIMAL_ID, NAME
 from animal_ins
 where intake_condition != 'Aged'
-order by 1
+order by ANIMAL_ID
