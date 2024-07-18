@@ -1,0 +1,7 @@
+-- 코드를 작성해주세요
+SELECT i.ITEM_ID, ITEM_NAME
+FROM ITEM_INFO i
+LEFT JOIN ITEM_TREE t
+on i.item_id = t.item_id
+WHERE PARENT_ITEM_ID is null
+ORDER BY 1
