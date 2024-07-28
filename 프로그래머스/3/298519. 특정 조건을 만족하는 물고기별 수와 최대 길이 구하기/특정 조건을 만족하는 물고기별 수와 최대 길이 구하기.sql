@@ -1,0 +1,8 @@
+-- 코드를 작성해주세요
+SELECT FISH_COUNT, MAX_LENGTH, FISH_TYPE
+FROM (SELECT COUNT(*) AS FISH_COUNT, max(lengths) as MAX_LENGTH, 
+        avg(lengths) as AVG_LENGTH, FISH_TYPE
+    FROM (SELECT *, IFNULL(length, 10) as LENGTHS FROM fish_info) a
+    GROUP BY 4) b
+WHERE AVG_LENGTH >= 33
+ORDER BY 3
