@@ -11,7 +11,6 @@ def dikstra(idj_list, start, end):
     heapq.heappush(plans, (distance[start], start))
 
     while plans:
-        # print(f'plans: {plans}')
         dist, ctn = heapq.heappop(plans)
 
         if distance[ctn] < dist: continue
