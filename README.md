@@ -7,4 +7,5 @@ This is an auto push repository for Baekjoon, Programers, SWexpertacademy...etc
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0550-game-play-analysis-iv](https://github.com/Yuwolx/Yuwol-python_SQL-problem/tree/main/0550-game-play-analysis-iv/) | Medium |
+| [1045-customers-who-bought-all-products](https://github.com/Yuwolx/Yuwol-python_SQL-problem/tree/main/1045-customers-who-bought-all-products/) | Medium |
 <!---LeetCode Topics End-->
