@@ -21,8 +21,13 @@
 
 SELECT product_id,
     COALESCE(
-    MAX(CASE WHEN change_date <= '2019-08-16' THEN new_price END)
+        (SELECT new_price
+        FROM products p2
+        WHERE p1.product_id = p2.product_id
+            AND change_date  <= '2019-08-16'
+        ORDER BY change_date DESC
+        LIMIT 1)
     , 10) as price
-FROM products
+FROM products p1
 GROUP BY product_id
 ORDER BY price DESC
