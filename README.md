@@ -12,4 +12,5 @@ This is an auto push repository for Baekjoon, Programers, SWexpertacademy...etc
 | [1164-product-price-at-a-given-date](https://github.com/Yuwolx/Yuwol-python_SQL-problem/tree/main/1164-product-price-at-a-given-date/) | Medium |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Yuwolx/Yuwol-python_SQL-problem/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1907-count-salary-categories](https://github.com/Yuwolx/Yuwol-python_SQL-problem/tree/main/1907-count-salary-categories/) | Medium |
+| [1978-employees-whose-manager-left-the-company](https://github.com/Yuwolx/Yuwol-python_SQL-problem/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
