@@ -10,5 +10,10 @@
 -- ORDER BY total DESC
 -- LIMIT 1
 
-SELECT person_name, SUM(weight) OVER(ORDER BY turn) as total_weight
-FROM Queue
+SELECT person_name
+FROM
+    (SELECT person_name, SUM(weight) OVER(ORDER BY turn) as total_weight
+    FROM Queue) alpha
+WHERE total_weight <= 1000
+ORDER BY total_weight DESC
+LIMIT 1
