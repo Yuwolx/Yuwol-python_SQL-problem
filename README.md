@@ -8,6 +8,7 @@ This is an auto push repository for Baekjoon, Programers, SWexpertacademy...etc
 | ------- | ------- |
 | [0180-consecutive-numbers](https://github.com/Yuwolx/Yuwol-python_SQL-problem/tree/main/0180-consecutive-numbers/) | Medium |
 | [0550-game-play-analysis-iv](https://github.com/Yuwolx/Yuwol-python_SQL-problem/tree/main/0550-game-play-analysis-iv/) | Medium |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Yuwolx/Yuwol-python_SQL-problem/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [0626-exchange-seats](https://github.com/Yuwolx/Yuwol-python_SQL-problem/tree/main/0626-exchange-seats/) | Medium |
 | [1045-customers-who-bought-all-products](https://github.com/Yuwolx/Yuwol-python_SQL-problem/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1164-product-price-at-a-given-date](https://github.com/Yuwolx/Yuwol-python_SQL-problem/tree/main/1164-product-price-at-a-given-date/) | Medium |
