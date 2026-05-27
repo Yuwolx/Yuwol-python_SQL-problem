@@ -15,6 +15,7 @@ This is an auto push repository for Baekjoon, Programers, SWexpertacademy...etc
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Yuwolx/Yuwol-python_SQL-problem/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1321-restaurant-growth](https://github.com/Yuwolx/Yuwol-python_SQL-problem/tree/main/1321-restaurant-growth/) | Medium |
 | [1341-movie-rating](https://github.com/Yuwolx/Yuwol-python_SQL-problem/tree/main/1341-movie-rating/) | Medium |
+| [1667-fix-names-in-a-table](https://github.com/Yuwolx/Yuwol-python_SQL-problem/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Yuwolx/Yuwol-python_SQL-problem/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1907-count-salary-categories](https://github.com/Yuwolx/Yuwol-python_SQL-problem/tree/main/1907-count-salary-categories/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Yuwolx/Yuwol-python_SQL-problem/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
