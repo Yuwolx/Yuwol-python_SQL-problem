@@ -6,6 +6,7 @@ This is an auto push repository for Baekjoon, Programers, SWexpertacademy...etc
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0175-combine-two-tables](https://github.com/Yuwolx/Yuwol-python_SQL-problem/tree/main/0175-combine-two-tables/) | Easy |
 | [0180-consecutive-numbers](https://github.com/Yuwolx/Yuwol-python_SQL-problem/tree/main/0180-consecutive-numbers/) | Medium |
 | [0550-game-play-analysis-iv](https://github.com/Yuwolx/Yuwol-python_SQL-problem/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Yuwolx/Yuwol-python_SQL-problem/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
