@@ -10,6 +10,7 @@ This is an auto push repository for Baekjoon, Programers, SWexpertacademy...etc
 | [0180-consecutive-numbers](https://github.com/Yuwolx/Yuwol-python_SQL-problem/tree/main/0180-consecutive-numbers/) | Medium |
 | [0550-game-play-analysis-iv](https://github.com/Yuwolx/Yuwol-python_SQL-problem/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0584-find-customer-referee](https://github.com/Yuwolx/Yuwol-python_SQL-problem/tree/main/0584-find-customer-referee/) | Easy |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Yuwolx/Yuwol-python_SQL-problem/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Yuwolx/Yuwol-python_SQL-problem/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [0620-not-boring-movies](https://github.com/Yuwolx/Yuwol-python_SQL-problem/tree/main/0620-not-boring-movies/) | Easy |
 | [0626-exchange-seats](https://github.com/Yuwolx/Yuwol-python_SQL-problem/tree/main/0626-exchange-seats/) | Medium |
